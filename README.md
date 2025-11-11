@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Arpita-Tripathi/Arpita-Tripathi/blob/main/generated-video-ezgif.com-optimize.gif" alt="Web Developer Banner" width="100%" height="70%" />
+</p>
 ## Hello there👋, My self Arpita Tripathi.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpita-tripathi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tripathi232304@gmail.com) 
